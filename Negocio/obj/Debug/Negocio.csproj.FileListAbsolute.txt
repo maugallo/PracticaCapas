@@ -1,0 +1,28 @@
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\Negocio\bin\Debug\Negocio.pdb
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\Negocio\bin\Debug\Dominio.pdb
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\Negocio\obj\Debug\Negocio.pdb
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\Negocio\bin\Debug\Negocio.dll
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\Negocio\bin\Debug\Dominio.dll
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\Negocio\bin\Debug\AccesoDatos.dll.config
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\Negocio\bin\Debug\Dominio.dll.config
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\Negocio\obj\Debug\Negocio.dll
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\Negocio\bin\Debug\Negocio.dll
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\Negocio\bin\Debug\Negocio.pdb
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\Negocio\bin\Debug\AccesoDatos.dll
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\Negocio\bin\Debug\Dominio.dll
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\Negocio\bin\Debug\AccesoDatos.pdb
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\Negocio\bin\Debug\AccesoDatos.dll.config
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\Negocio\bin\Debug\Dominio.pdb
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\Negocio\bin\Debug\Dominio.dll.config
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\Negocio\obj\Debug\Negocio.dll
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\Negocio\obj\Debug\Negocio.pdb

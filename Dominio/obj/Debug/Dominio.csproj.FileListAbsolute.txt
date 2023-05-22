@@ -1,0 +1,7 @@
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\Dominio\bin\Debug\Dominio.pdb
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\Dominio\obj\Debug\Dominio.pdb
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\Dominio\bin\Debug\Dominio.dll.config
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\Dominio\bin\Debug\Dominio.dll
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\Dominio\obj\Debug\Dominio.dll

@@ -1,0 +1,36 @@
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\PracticaCapas\bin\Debug\PracticaCapas.exe.config
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\PracticaCapas\bin\Debug\PracticaCapas.exe
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\PracticaCapas\bin\Debug\PracticaCapas.pdb
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\PracticaCapas\bin\Debug\Negocio.pdb
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\PracticaCapas\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\PracticaCapas\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\PracticaCapas\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\PracticaCapas\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\PracticaCapas\obj\Debug\PracticaCapas.exe
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\PracticaCapas\obj\Debug\PracticaCapas.pdb
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\PracticaCapas\bin\Debug\Dominio.dll
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\PracticaCapas\bin\Debug\Negocio.dll
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\PracticaCapas\bin\Debug\AccesoDatos.dll
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\PracticaCapas\bin\Debug\Dominio.pdb
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\PracticaCapas\bin\Debug\Dominio.dll.config
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\PracticaCapas\bin\Debug\Negocio.dll.config
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\PracticaCapas\bin\Debug\AccesoDatos.pdb
+C:\Users\mauga\Dropbox\2023\.NET\5 -\PracticaCapas\PracticaCapas\bin\Debug\AccesoDatos.dll.config
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\PracticaCapas\bin\Debug\PracticaCapas.exe.config
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\PracticaCapas\bin\Debug\PracticaCapas.exe
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\PracticaCapas\bin\Debug\PracticaCapas.pdb
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\PracticaCapas\bin\Debug\Dominio.dll
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\PracticaCapas\bin\Debug\Negocio.dll
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\PracticaCapas\bin\Debug\AccesoDatos.dll
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\PracticaCapas\bin\Debug\Dominio.pdb
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\PracticaCapas\bin\Debug\Dominio.dll.config
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\PracticaCapas\bin\Debug\Negocio.pdb
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\PracticaCapas\bin\Debug\Negocio.dll.config
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\PracticaCapas\bin\Debug\AccesoDatos.pdb
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\PracticaCapas\bin\Debug\AccesoDatos.dll.config
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\PracticaCapas\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\PracticaCapas\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\PracticaCapas\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\PracticaCapas\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\PracticaCapas\obj\Debug\PracticaCapas.exe
+C:\Users\mauga\OneDrive\Documentos\2023\.NET\5ConexionDB\PracticaCapas\PracticaCapas\obj\Debug\PracticaCapas.pdb
